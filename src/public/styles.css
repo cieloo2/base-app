@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+}
+
+pre{
+    overflow: auto;
+    white-space: pre;
+    width: auto;
+    height: auto;
+    background-color: rgba(68, 68, 68, 0.377);
+}
